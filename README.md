@@ -1,2 +1,2 @@
 # Pyspark
-Analysis of various popular datasets using Pyspark and other python libraries
+Analysis of various popular datasets using Pyspark,spark SQL and other python libraries and APIs
